@@ -1,1 +1,2 @@
 # Marketing-Analytics
+#Analysed marketing data by cleaning and processing it using SQL Server to ensure data accuracy and consistency. Applied sentiment analysis techniques in Python to extract insights from customer reviews, providing a clear understanding of customer sentiment and behaviour. Utilise Power BI to create dynamic visualisations and dashboards that presented the overall overview, conversion, social media and customer review detail that helps in delivering actionable insights for optimising marketing strategies.
